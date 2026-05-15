@@ -1,4 +1,4 @@
-function checkForm(el){
+function checkForm(el, event){
     
     event.preventDefault();
     var name = el.name.value;
