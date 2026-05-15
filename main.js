@@ -22,6 +22,6 @@ function checkForm(el){
     }
     else{
         alert("Всё окей");
-        window.location = 'index1.html';
+        window.location = '/index1.html';
     }
 }
